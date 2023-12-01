@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357464471928",
+    "project_id": "jobportal-techvidvan",
+    "storage_bucket": "jobportal-techvidvan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357464471928:android:8c0cad3c2b2b6ff5a8f08d",
+        "android_client_info": {
+          "package_name": "com.example.jobportal_techvidvan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357464471928-cdhclhr8c77805s94nvgvdub3dfe2id9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jobportal_techvidvan",
+            "certificate_hash": "a777cebc25333804885448fb18e5b28542da7af5"
+          }
+        },
+        {
+          "client_id": "357464471928-34pk5t3fic5m2i14n89t01d659innk2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoO-JxLSTApUijTnZ8D3k8WJ23up1sSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357464471928-34pk5t3fic5m2i14n89t01d659innk2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
